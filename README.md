@@ -1,5 +1,5 @@
 # Delphi
-Repo where i will upload my delphi projects
+Repo where I will upload my Delphi projects
 
 ### Trump
 
