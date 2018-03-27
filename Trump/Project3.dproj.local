@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/27 16:32:55.000.300,=C:\Users\macie\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/03/27 16:36:03.000.383,=C:\Users\macie\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/03/27 16:36:13.000.646,C:\Users\macie\Documents\Embarcadero\Studio\Projects\Trump\Unit3.pas=C:\Users\macie\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/03/27 16:36:13.000.646,C:\Users\macie\Documents\Embarcadero\Studio\Projects\Trump\Unit3.dfm=C:\Users\macie\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2018/03/27 16:36:19.000.255,C:\Users\macie\Documents\Embarcadero\Studio\Projects\Trump\Project3.dproj=C:\Users\macie\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
